@@ -4,38 +4,28 @@ Possible number of distinct usernames is 850 million.
 
 A sample of usernames generated : 
 
-    ColorfulPod95
-    Big-HeartedPrefix36
-    PrivateThing58
-    PoisedStatute39
-    MoralWatch68
-    TragicShorts35
-    OtherParsley51
-    BlankFacelift45
-    WigglyDispatch46
-    ParallelGuestbook22
-    EquatorialPlough60
-    OrnateBaggage45
-    QuintessentialChicken88     
-    SaltyCompany25
-    Jam-PackedIndustrialisation5
-    MammothGazelle62
-    FrightenedUnderwear96       
-    DeafeningSurrounds9
-    IndelibleObi4
-    FrizzySoutheast92
-    HomelyRunaway8
-    UtterBeyond4
-    QuerulousExchange66
-    SeriousHornet61
-    PinkBed40
-    ShyFlexibility74
-    DefensiveMeringue73
-    SleepyDearest43
-    SoggySuck29
-    AttachedWatcher91
-    Well-OffBumper30
-    TornExcess12
-    GrayEngineering69
-    IdolizedOverclocking77      
-    ShadowyLabourer12
+antonymfootsore97
+hesitancybooting99
+unluckilylaunder13
+bonedunthawed30
+scopeswooned26
+awaitrenounce85
+flavorfullifter45
+halogenjolly98
+overplantunstirred20
+unluckilyderived26
+amplytanning91
+bunkhousedramatic49
+coffeespotting93
+tykeflaccid86
+fetaljasmine80
+flashcarddedicator03
+frolicunbroken49
+supremeremix24
+festivalposting91
+quicksandupward80
+
+# Changes from the Fork
+- Added feature to select their preferred word list upon executing the script (and checks if it valid)
+- modified `random.randint` to add zeroes if the generated number is lower than 10.
+- removed noun.txt & adjectives.txt
